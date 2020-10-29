@@ -1,0 +1,18 @@
+.formulaire{
+ width: 500px;
+ margin-left:50px;
+}
+
+svg{
+    position: relative;
+  }
+.titre{
+font-size: 70px;
+}
+.card-text{
+  max-height: 100px;
+  overflow: hidden;
+}
+.link{
+
+}
